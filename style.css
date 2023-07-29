@@ -108,3 +108,14 @@ header .menu_side .menu_song{
     border: 2px solid #fff;
     margin-top: 40px;
 }
+header .menu_side .menu_song li{    
+    list-style-type: none;
+    padding: 5px 0px 5px 20px;
+
+}
+header .menu_side .menu_song li span{    
+    font-size: 12px;
+    font-weight: 600;
+    color: #4c5262;
+
+}
